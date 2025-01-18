@@ -67,12 +67,12 @@ npm install
 
 ## **Example Screenshots**
 
-<img width="713" alt="user-profile" src="https://github.com/user-attachments/assets/f307c83e-78c3-45ea-975a-23fb929fa374" />
-<img width="714" alt="user-location" src="https://github.com/user-attachments/assets/daf2bc68-461e-4741-94a1-5f339a7e51ea" />
-<img width="723" alt="search-bar" src="https://github.com/user-attachments/assets/64ff2d1f-7e12-4d3f-b0a6-4b21517bd0c8" />
-<img width="718" alt="list3" src="https://github.com/user-attachments/assets/97da57f6-702b-4af0-8d64-80f4085171ca" />
-<img width="713" alt="list2" src="https://github.com/user-attachments/assets/a95766eb-59f3-4eb8-a7b1-9a9f597774da" />
-<img width="721" alt="list" src="https://github.com/user-attachments/assets/ac2cf18a-e7ca-40cc-bd11-f66c0400dd55" />
-<img width="715" alt="city-details-page2" src="https://github.com/user-attachments/assets/62e9618e-dd51-4904-8634-81cf6823cfec" />
-<img width="710" alt="city-details-page" src="https://github.com/user-attachments/assets/5657b2af-67c7-477d-9a06-c41621f43843" />
-<img width="715" alt="user-profile-validation" src="https://github.com/user-attachments/assets/5077cb29-0824-4ad4-8c18-dab4b43fc869" />
+![image](https://github.com/Abdullah-bakhadher/weather-app-tawk-practical-test/blob/main/screenshots/user-profile.png?raw=true)
+![image](https://github.com/Abdullah-bakhadher/weather-app-tawk-practical-test/blob/main/screenshots/user-profile-validation.png?raw=true)
+![image](https://github.com/Abdullah-bakhadher/weather-app-tawk-practical-test/blob/main/screenshots/user-location.png?raw=true)
+![image](https://github.com/Abdullah-bakhadher/weather-app-tawk-practical-test/blob/main/screenshots/search-bar.png?raw=true)
+![image](https://github.com/Abdullah-bakhadher/weather-app-tawk-practical-test/blob/main/screenshots/list3.png?raw=true)
+![image](https://github.com/Abdullah-bakhadher/weather-app-tawk-practical-test/blob/main/screenshots/list2.png?raw=true)
+![image](https://github.com/Abdullah-bakhadher/weather-app-tawk-practical-test/blob/main/screenshots/list.png?raw=true)
+![image](https://github.com/Abdullah-bakhadher/weather-app-tawk-practical-test/blob/main/screenshots/city-details-page2.png?raw=true)
+![image](https://github.com/Abdullah-bakhadher/weather-app-tawk-practical-test/blob/main/screenshots/city-details-page.png?raw=true)
